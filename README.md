@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omerbaba31
-- 👀 I’m interested in sowtare
+- 👀 I’m interested in sofwtare
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me ... dont reach me
